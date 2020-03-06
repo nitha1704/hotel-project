@@ -220,7 +220,7 @@ a:focus {
   top: 0;
   left: 0;
   /* background: #443013; */
-  /* background: url("images/new_hotel_logo/new-expanded-menu.jpg") !important; */
+  /* background: url("images/new-hotel-logo/new-expanded-menu.jpg") !important; */
   z-index: 99999;
   color: #fff;
   transform: translateY(-105%);
@@ -433,7 +433,7 @@ a:focus {
   width: 750px;
   position: absolute;
   padding: 39px 62px;
-  background: url("../images/new_hotel_logo/Layernew.png") left bottom;
+  background: url("../images/new-hotel-logo/Layernew.png") left bottom;
   /* background: url('../images/New_Magnolia _Logo/background.png') left bottom; */
   background-repeat: repeat-x;
   min-height: 300px;
@@ -876,7 +876,7 @@ a:focus {
 }
 
 .rightSideBarHeader {
-  background: url("../images/new_hotel_logo/background-right-side2.png") !important;
+  background: url("../images/new-hotel-logo/background-right-side2.png") !important;
   text-align: center;
   color: white;
   z-index: 999;
@@ -886,7 +886,7 @@ a:focus {
   padding: 30px 10px;
 }
 .rightSideBarHeader-residences {
-  background: url("../images/new_hotel_logo/background-right-side2.png") !important;
+  background: url("../images/new-hotel-logo/background-right-side2.png") !important;
   text-align: center;
   color: white;
   z-index: 999;
@@ -2251,7 +2251,7 @@ input[type="radio"]:focus {
 }
 
 .education .head-title:before {
-  background: url("../images/new_hotel_logo/mapWrap/Education.png");
+  background: url("../images/new-hotel-logo/mapWrap/Education.png");
   /* background:black; */
 }
 
@@ -2265,7 +2265,7 @@ input[type="radio"]:focus {
 }
 
 .hospital .head-title:before {
-  background: url("../images/new_hotel_logo/mapWrap/Hospital.png");
+  background: url("../images/new-hotel-logo/mapWrap/Hospital.png");
   /* background: #7d9579; */
 }
 
@@ -2275,7 +2275,7 @@ input[type="radio"]:focus {
 }
 
 .business .head-title:before {
-  background: url("../images/new_hotel_logo/mapWrap/2/1.png");
+  background: url("../images/new-hotel-logo/mapWrap/2/1.png");
   /* background: #59679b; */
 }
 
@@ -2285,7 +2285,7 @@ input[type="radio"]:focus {
 }
 
 .shopping .head-title:before {
-  background: url("../images/new_hotel_logo/mapWrap/2/2.png");
+  background: url("../images/new-hotel-logo/mapWrap/2/2.png");
   /* background: #c76746; */
 }
 
@@ -2295,7 +2295,7 @@ input[type="radio"]:focus {
 }
 
 .office .head-title:before {
-  background: url("../images/new_hotel_logo/mapWrap/2/3.png");
+  background: url("../images/new-hotel-logo/mapWrap/2/3.png");
   /* background: #caa83a; */
 }
 
@@ -2305,7 +2305,7 @@ input[type="radio"]:focus {
 }
 
 .hotel .head-title:before {
-  background: url("../images/new_hotel_logo/mapWrap/2/4.png");
+  background: url("../images/new-hotel-logo/mapWrap/2/4.png");
   /* background: #715f3a; */
 }
 
