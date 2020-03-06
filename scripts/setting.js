@@ -200,41 +200,41 @@ function toggleDefault(item, classes) {
 // My Code (WAII)
 function hoverbdButton() {
     $('#bdbuttonCall').on('mouseover', function () {
-        $('#bdbuttonCallImg').attr('src', 'images/new_hotel_logo/icon-phone.png');
+        $('#bdbuttonCallImg').attr('src', 'images/new-hotel-logo/icon-phone.png');
         $('#bdbuttonCallParagraph').css('color', 'white');
         $(this).css('background-color', '#c9952b');
 
     });
 
     $('#bdbuttonCall').on('mouseout', function () {
-        $('#bdbuttonCallImg').attr('src', 'images/new_hotel_logo/icon-phone2.png');
+        $('#bdbuttonCallImg').attr('src', 'images/new-hotel-logo/icon-phone2.png');
         $('#bdbuttonCallParagraph').css('color', '#c9952b');
         $(this).css('background-color', '');
     });
 
     $('#bdbuttonCall2').on('mouseover', function () {
-        $('#bdbuttonCallImg2').attr('src', 'images/new_hotel_logo/icon-phone.png');
+        $('#bdbuttonCallImg2').attr('src', 'images/new-hotel-logo/icon-phone.png');
         $('#bdbuttonCallParagraph2').css('color', 'white');
         $(this).css('background-color', '#c9952b');
 
     });
 
     $('#bdbuttonCall2').on('mouseout', function () {
-        $('#bdbuttonCallImg2').attr('src', 'images/new_hotel_logo/icon-phone2.png');
+        $('#bdbuttonCallImg2').attr('src', 'images/new-hotel-logo/icon-phone2.png');
         $('#bdbuttonCallParagraph2').css('color', '#c9952b');
         $(this).css('background-color', '');
     });
 
 
     $('#bdbutton-call2').on('mouseover', function () {
-        $('#bdbutton-call2-img').attr('src', 'images/new_hotel_logo/icon-phone.png');
+        $('#bdbutton-call2-img').attr('src', 'images/new-hotel-logo/icon-phone.png');
         $('#bdbutton-call2-p').css('color', 'white');
         $(this).css('background-color', '#c9952b');
 
     });
 
     $('#bdbutton-call2').on('mouseout', function () {
-        $('#bdbutton-call2-img').attr('src', 'images/new_hotel_logo/icon-phone2.png');
+        $('#bdbutton-call2-img').attr('src', 'images/new-hotel-logo/icon-phone2.png');
         $('#bdbutton-call2-p').css('color', '#c9952b');
         $(this).css('background-color', '');
     });
