@@ -2718,6 +2718,38 @@ a img,
   }
 }
 
+
+/*/////////////// CSS Only Microsoft Edge waii ///////////////*/
+@supports (-ms-ime-align: auto) {
+  .caption.first {
+    width:auto;
+  }
+  /* Microsoft Edge Responsive */
+  @media (max-width:860px) {
+    .caption.first .title.t1 {
+      font-size:14px;
+    }
+    .caption.first .title.t2 {
+      font-size:20px;
+    }
+  }
+  @media (max-width:768px) {
+    .caption.first {
+      width:auto !important;
+    }
+  }
+  @media (max-width:460px) {
+    .caption.first .title.t1 {
+      font-size:10px !important;
+    }
+    .caption.first .title.t2 {
+      font-size:15px !important;
+    }
+  }
+}
+
+
+
 /*/////////////// CSS Only Firefox waii ///////////////*/
 @-moz-document url-prefix() {
   .bdbutton {
